@@ -12,6 +12,8 @@ The filtering process is implemented using two approaches:
 The project demonstrates the mathematical concept of **image convolution** and shows how increasing the kernel size progressively increases the smoothing effect.
 
 ---
+  <img width="1031" height="989" alt="image" src="https://github.com/user-attachments/assets/08527e1a-b148-4426-a949-a72b7dc7aec1" />
+  
 
 ## Aim
 
